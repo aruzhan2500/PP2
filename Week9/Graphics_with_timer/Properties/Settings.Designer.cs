@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace PaintApp.Properties
+namespace Graphics_with_timer.Properties
 {
 
 

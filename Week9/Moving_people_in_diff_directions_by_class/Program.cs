@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace PaintApp
+namespace Moving_people_in_diff_directions_by_class
 {
     static class Program
     {
